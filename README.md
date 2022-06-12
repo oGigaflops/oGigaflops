@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/oGigaflops">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ogigaflops&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogigaflops&layout=compact&langs_count=16&theme=noctis_minimus"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ogigaflops&show_icons=true&theme="noctis_minimus"&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogigaflops&layout=compact&langs_count=16&theme="noctis_minimus"/>
 </div>
 
 ##
