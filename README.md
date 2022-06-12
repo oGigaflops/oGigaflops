@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him/his
 
 <div>
-<!--  <a href="https://beacons.ai/oGigaflops"> -->
+  <a href="https://github.com/oGigaflops">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oGigaflops&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGigaflops&layout=compact&langs_count=16&theme=noctis_minimus"/> -->
 </div>
