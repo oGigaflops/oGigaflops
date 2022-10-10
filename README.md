@@ -1,6 +1,6 @@
 ### Hi there 😎
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning <del>Javascript</del> Rust
 - 📫 How to reach me: gigaflops@gmail.com
 - 😄 Pronouns: he/him/his
 
