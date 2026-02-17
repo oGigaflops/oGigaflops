@@ -1,38 +1,63 @@
-### Hi there 😎
-
-- 🌱 I’m currently learning <del>Javascript</del> Rust
-- 📫 How to reach me: gigaflops@gmail.com
-- 😄 Pronouns: he/him/his
-
-<div>
-  <a href="https://github.com/oGigaflops">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ogigaflops&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-<!--  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogigaflops&layout=compact&langs_count=16&theme=noctis_minimus"/> -->
+<div align="center">
+  <h1>Guilherme Gomes Pinto</h1>
+  <p align="center">
+    <strong>Backend Software Engineer</strong><br>
+    Especialista em soluções robustas e performance de sistemas.
+  </p>
 </div>
 
-##
+<p align="center">
+  <img src="https://img.shields.io/badge/Localização-Portugal-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Backend-orange?style=flat-square" />
+</p>
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg", height=40px, width=60px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg", height=40px, width=60px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=40px, width=60px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=40px, width=60px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height=50px, width=60px />
-</div>
+<hr>
 
-##
+### ⚡ Sobre mim
+- 🏢 Atualmente no **[Grupo Sinalcabo](https://sinalcabo.com/pt/)**.
+- 🛠️ Trabalho diariamente com **Golang** e **SQL**.
+- 🐧 Usuário de Linux e entusiasta de código aberto.
+- 🌍 Brasileiro radicado em Portugal desde 2017.
 
-  ![Snake animation](https://github.com/oGigaflops/oGigaflops/blob/output/github-contribution-grid-snake.svg)
+<hr>
 
-<!--
-**oGigaflops/oGigaflops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Stack Principal
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Outras tecnologias e bagagem técnica
+*Tecnologias com as quais trabalho ou já tive contato ao longo da carreira:*
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=go,rust,php,ts,js,html,css,jquery" /></a>
+</p>
+
+> **Conhecimentos prévios em:** `ABAP` • `Visual FoxPro` • `VB.NET`
+
+<hr>
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oGigaflops&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oGigaflops&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<hr>
+
+### 📫 Vamos conversar?
+<p align="left">
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/guilhermegomes/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gigaflops@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
