@@ -15,7 +15,7 @@
 
 ### ⚡ Sobre mim
 - 🏢 Atualmente no **[Grupo Sinalcabo](https://sinalcabo.com/pt/)**.
-- 🛠️ Trabalho diariamente com **Golang** e **SQL**.
+- 🛠️ Trabalho diariamente com **Go** e **SQL**.
 - 🐧 Usuário de Linux e entusiasta de código aberto.
 - 🌍 Brasileiro radicado em Portugal desde 2017.
 
